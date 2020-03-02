@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ABOUT MYSELF</title>
+<body style="background-color:AliceBlue">
+<h2 style= "text-align:center"><b><u>RESUME</u></b></h2>
+<h3><i>PERSONAL INFO</i></h3>
+<img src="abhinavcomp2.jpg" align="left" hspace="20">
+<text>
+<p>Name: Abhinav Mathur<br>
+Roll no: 16ET1046<br>
+Phone no: 9152106461<br>
+Email id: mathurabhinav1997@gmail.com<br>
+College: Ramrao Adik Institute of Technology,Nerul,Navi Mumbai<br>
+Career objective:To be a professional and be useful to society and seeking a responsible career opportunity for the same.<br>
+<h3><i>ACADEMIC INFO</i></h3>
+<table style= "width:100%",table border="3">
+<tr>
+<th>10th percent</th>
+<th>12th percent</th>
+<th>sem 1 cgpa</th>
+<th>sem 2 cgpa</th>
+<th>sem 3 cgpa</th>
+<th>sem 4 cgpa</th>
+<th>sem 5 cgpa</th>
+<th>sem 6 cgpa</th>
+<th>sem 7 cgpa</th>
+</tr>
+<tr>
+<td>87.17</td>
+<td>78.20</td>
+<td>6.9</td>
+<td>8.0</td>
+<td>7.7</td>
+<td>7.6</td>
+<td>7.7</td>
+<td>5.6</td>
+<td>6.04</td>
+</tr>
+</table>
+<h3><i>ACADEMIC ACHIEVEMENTS</i></h3>
+<img src="strength1comp.jpg" align="right">
+<ul>
+<li>Secured 1st position in Commercial Applications in 10th class in school.</li>
+</ul>
+<h3><i>CERTIFICATIONS</i></h3>
+<ul>
+<li>Successfully completed ITSA Kotlin Workshop For App Development on 23rd and 24th March 2019 held by CDAC.<a href="kotlin.html">Certificate</a></li>
+<li>Successfully completed two-day workshop on Java Programming conducted by ISTE-RAIT on 8th and 9th September 2018.<a href="java.html">Certificate</a></li>
+</ul>
+<h3><i>PROJECTS AND INTERNSHIPS</i></h3>
+<ul>
+<li><h4>Blood Bank Management System</h4>
+The purpose of the blood bank management system is to simplify and automate the process of searching for blood in case of emergency and maintain the records of blood donors, acceptors, blood donation programs and blood stocks in the bank.
+
+ The goals and objectives of the Blood Bank Management System are as follows: 
+<ol>
+<li>To provide a means for the blood bank to publicize and advertise blood donation programs.</li> 
+<li>To allow the probable recipients to make search and match the volunteer donors, and make request for the blood.</li>
+<li>To provide an efficient donor and blood stock management functions to the blood bank by recording the donor and blood details.</li>
+<li>To provide synchronized and centralized donor and blood stock database.</li>
+<li>To provide immediate storage and retrieval of data and information.</li>
+</ol>
+Blood bank management system will have various relations to store data about various blood banks, donors, acceptors of blood. The first category of management system contains details for donor. The interested donor will be asked to give information about blood group, age, etc. The next category of system has blood bank details with location, quantity, blood groups, etc . Whereas the last category of management system has the blood acceptors details. The acceptor has to give complete details about his age, blood group and the payment details of the acceptor.</li>
+<li><h4>License Plate Recognition system using MATLAB</h4>
+Automatic number plate recognition is a technology that uses optical character recognition system on images to read vehicle registration plates to create vehicle location data. It can use existing closed circuit television, road-rule enforcement cameras, or cameras specifically designed for the task. ANPR is used by police forces around the world for law enforcement purposes, including to check if a vehicle is registered or licensed. It is also used for electronic toll collection on pay-per-use roads and as a method of cataloguing the movements of traffic, for example by highways agencies. Automatic number plate recognition can be used to store the images captured by the cameras as well as the text from the license plate, with some configurable to store a photograph of the driver. Systems commonly use infrared lighting to allow the camera to take the picture at any time of day or night. ANPR technology must take into account plate variations from place to place.</li>
+<li><h4>Development of calculator application</h4>
+Developed an Android calculator application using Kotlin and language used is Java.</li>
+<li><h4>Up/Down Counter using 8051 Microcontroller and Seven-Segment Display</h4>
+A seven segment display module is an electronic device used to display digital numbers and it is made up of seven LED segments. Because of the small size of the LEDs, it is really easy for a number of them to be connected together to make a unit like seven segment display. In the seven segment display module, seven LED s are arranged in a rectangle. Sometimes, an additional LED is seen in a seven segment display unit which is meant for displaying a decimal point.
+Each LED segment has one of its pins brought out of the rectangular package. Other pins are connected together to a common terminal. Seven segment displays are seen associated with a great number of devices such as clocks, digital home appliances, signal boards on roads etc.</li>
+</ul>
+<h3><i>EXTRA-CURRICULAR ACHIEVEMENTS</i></h3>
+<ul>
+<li>Participated in Robotics workshop in 2016.<a href="robotics.html">Certificate</a></li>
+<li>Participated in Internship of IEEE RAIT on 3rd and 4th Sept 2018</li>
+<li>Participated in Industrial Visit to BSNL Satellite Earth Station,Yeur,Thane on 11th September,2018</li>
+<li>Participated in Summer Internship Program on Research Directions In Electronics and Telecommunication Engineering held by RAIT from 18th June to 17th July 2018.<a href="extcinternship.html">Certificate</a></li>
+</ul>
+<h3><i>ADDITIONAL INFORMATION</i></h3>
+<img src="technical.jpg" align="right">
+<ul>
+<li>Preferred Programming Language: C,Java</li>
+<li>Other Interests: Singing, Listening to music ,History ,Gaming, Gaining new knowledge, Swimming</li>
+</body>
+</head>
+</html>
